@@ -1,0 +1,15 @@
+1	Boston	5-9	4-9	5-7
+2	Buffalo	6-9	4-7	4-7
+3	Carolina	4-8	5-7	4-9
+4	Columbus	4-9	5-8	7-10
+5	Detroit	4-7	6-8	4-6
+6	Florida	5-7	4-8	5-9
+7	Montréal	4-7	4-7	4-9
+8	New Jersey	4-7	4-7	5-6
+9	NY Islanders	6-8	5-7	6-8
+10	NY Rangers	5-7	4-6	5-7
+11	Ottawa	4-6	4-5	4-5
+12	Philadelphia	4-6	4-6	4-7
+13	Pittsburgh	6-10	4-7	5-7
+14	Tampa Bay	6-10	6-10	7-9
+15	Washington	6-10	5-8	6-8
