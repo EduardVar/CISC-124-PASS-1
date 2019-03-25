@@ -1,6 +1,5 @@
 /**
  * Author:	Eduard Varshavsky
- * NetID:	18ev
  * Date:	January 21, 2019
  * Desc:	This is an enumeration in charge of storing the types of positions
  * 			found in a hockey team

@@ -1,6 +1,5 @@
 /**
  * Author:	Eduard Varshavsky
- * NetID:	18ev
  * Date:	January 21, 2019
  * Desc:	This is the main program for the NHL Simulator. It deals with the
  * 			user interface and working with all the other classes to create

@@ -1,6 +1,5 @@
 /**
  * Author:	Eduard Varshavsky
- * NetID:	18ev
  * Date:	January 21, 2019
  * Desc:	This is the Game class that maintains the attributes and methods
  * 			that are used to play a game of hockey 

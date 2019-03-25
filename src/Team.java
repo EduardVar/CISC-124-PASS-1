@@ -1,6 +1,5 @@
 /**
  * Author:	Eduard Varshavsky
- * NetID:	18ev
  * Date:	January 21, 2019
  * Desc:	This is the Team class that handles all the attributes and 
  * 			functions required to track a teams players, statistics and actions

@@ -1,6 +1,5 @@
 /**
  * Author:	Eduard Varshavsky
- * NetID:	18ev
  * Date:	January 21, 2019
  * Desc:	This is the Player class that holds all the defining 
  * 			characteristics of a single player
